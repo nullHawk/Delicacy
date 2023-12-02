@@ -1,0 +1,17 @@
+  <div class="special" id="special">
+        <h1>Check our <span>Specials</span></h1>
+        <p></p>
+        <div class="special-ctn">
+            <div class="options">
+                <div id="option">Alu ke parathe</div>
+                <div id="option">Butter Chicken</div>
+                <div id="option">Chole Bhature</div>
+                <div id="option">Butter Paneer</div>
+            </div>
+            <div class="special-descr">
+                <h1>Alu Ke parathe</h1>
+                <p>Aloo ke parathe, a beloved staple of North Indian cuisine, are a delightful and wholesome treat. These flatbreads, made by stuffing unleavened dough with a spiced potato filling, offer a perfect blend of flavors and textures. The mashed potatoes, seasoned with spices like cumin, coriander, and garam masala, create a filling that is both comforting and aromatic. The paratha is then pan-fried until golden brown, resulting in a crispy exterior that contrasts beautifully with the soft, flavorful interior. Often served with yogurt, pickles, and a dollop of butter, aloo ke parathe are not just a meal but a cherished culinary experience that embodies the warmth and richness of Indian home-cooked food. Whether enjoyed for breakfast, lunch, or dinner, these parathas encapsulate the essence of traditional Indian comfort food.</p>
+            </div>
+            <img src="images/specials-1.jpg">
+        </div>
+    </div>
